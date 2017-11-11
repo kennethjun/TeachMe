@@ -1,33 +1,10 @@
-# awsEX1
-This sample demonstrates how to use the high-level class TransferUtility to perform download and upload tasks and manage the tasks. You can also follow the tutorial for a step-by-step guide in understanding the S3TransferUtilitySample.
+Teach Me
+===
 
-Create a identity pool
+###Milestone 1 
+---
 
-Go to https://console.aws.amazon.com/cognito/ and create a new identity pool. Make sure to enable access to unauthenticated identities and use the default roles.
-Download the starter code at the last step of the wizard.
-The starter code, has your Identity Pool ID. Keep this, you will need to add it to the sample later.
-Set up permissions
+#####Created by Joshua Andreasian, Anthony Navarro, Yixuan Leng, Kenneth Jun#####
 
-Go to https://console.aws.amazon.com/iam/home and select "Roles".
-Select the unauthenticated role you just created in step 1.
-Select "Attach Policy", then find "AmazonS3FullAccess" and attach it it to the role.
-Note: This will grant users in the identity pool full access to all buckets and operations in S3. In a real app, you should restrict users to only have access to the resources they need.
-Create a bucket
-
-Go to https://console.aws.amazon.com/s3/home
-Create a bucket with a name you want.
-Import the sample project
-
-Import the sample as Android project into your IDE of choice.
-Open com.amazonaws.demo.s3transferutility.Constants.java.
-Update "COGNITO_POOL_ID" with the value you got from step 1.
-Update "COGNITO_POOL_REGION" with the region of your cognito identity pool from step 1. For example, us-east-1.
-Update "BUCKET_NAME" with the value in step 3.
-Update "BUCKET_REGION" with the region of your s3 bucket from step 3. For example, us-east-1.
-Import the AWS SDK for Android
-
-You can download the newest AWS Android SDK from http://aws.amazon.com/mobile/sdk/ and copy the jars into libs directory. Include the following jars
-aws-android-sdk-core-X.X.X.jar
-extras/aws-android-sdk-cognito-X.X.X.jar
-aws-android-sdk-s3-X.X.X.jar
-Run the sample
+#####Abstract#####
+Teach Me is a convenient Android app for students to easily find tutors for the classes they need help in and for tutors to post the classes they are qualified to tutor. By allowing students and tutors to message, search, and rate each other in the app and set appointments based on their proximity to each other, Teach Me will take the frustration of finding a good tutor out of the equation.
