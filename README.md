@@ -15,17 +15,23 @@ Teach Me is a convenient Android app for students to easily find tutors for the 
 ACCOMPLISHED LIST & TIME SPENT:
 ---
 
-1. a (3 Hrs.)
-2. b
-3. c  
+1. [9 days] **View Profile** - user can view another user’s profile
+2. [6 days] **View Tutor’s Location** - user can view the location of a tutor when on their profile
+3. [3 days] **Write Review** - user can write a review about a tutor 
+4. [6 days] **View My Location** - user can view their location on a app
+5. [9 days] **Edit Profile** - user can change profile photo, add a description, add classes they tutor, then save changes
+6. [3 days] **Login** - existing users enter their email and password to login  
+7. [5 days] **Register** - user is prompted to enter their name, email, and a password to create an account
+8. [3 days] **Signout** - user can sign out of application
+9. [7 days] **Search** - user can search a subject and view the people who tutor this subject
+10.[8 days] **Favorite**- user can favorite a tutor
+
 *you may include time spent learing about topics not covered in class and time spent debugging issues*   
 
-
 TODO:
--Add Reviews
--Add Favorites
--Add Contact Page
-
+-Add **View Reviews**- user can view reviews left about the tutor
+-Add **View Favorites**- user can view tutors they have favorited
+-Add **Contact Page** - Students can send email to Tutor
 
 EXTERNAL SOURCES:  
 ---
