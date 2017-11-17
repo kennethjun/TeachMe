@@ -21,6 +21,12 @@ ACCOMPLISHED LIST & TIME SPENT:
 *you may include time spent learing about topics not covered in class and time spent debugging issues*   
 
 
+TODO:
+-Add Reviews
+-Add Favorites
+-Add Contact Page
+
+
 EXTERNAL SOURCES:  
 ---
 
