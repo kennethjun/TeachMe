@@ -27,11 +27,12 @@ ACCOMPLISHED LIST & TIME SPENT:
 10.[8 days] **Favorite**- user can favorite a tutor
 
 *you may include time spent learing about topics not covered in class and time spent debugging issues*   
-
-TODO:
--Add **View Reviews**- user can view reviews left about the tutor
--Add **View Favorites**- user can view tutors they have favorited
--Add **Contact Page** - Students can send email to Tutor
+---
+Future Features TODO:
+---
+1. Add **View Reviews**- user can view reviews left about the tutor
+2. Add **View Favorites**- user can view tutors they have favorited
+3. Add **Contact Page** - Students can send email to Tutor
 
 EXTERNAL SOURCES:  
 ---
