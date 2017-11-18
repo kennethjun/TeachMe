@@ -43,5 +43,7 @@ EXTERNAL SOURCES:
 * Lecture Notes  
 * Bottom Bar View Component (https://github.com/roughike/BottomBar)
 
-
+How to Login:
+user: test@gmail.com
+password: password
 
