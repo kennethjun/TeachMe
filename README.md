@@ -23,18 +23,16 @@ ACCOMPLISHED LIST & TIME SPENT:
 6. [5 days] **Register** - user is prompted to enter their name, email, and a password to create an account
 7. [3 days] **Signout** - user can sign out of application
 8. [7 days] **Search** - user can search a subject and view the people who tutor this subject
-9. [8 days] **Favorite**- user can favorite a tutor
-```
-**Please Note that when you TEST to login use:
-  User ID: test@gmail.com     
-  Password: password  
-```
+*you may include time spent learing about topics not covered in class and time spent debugging issues*   
+
 Future Features TODO:
 ---
 1. Add **View Reviews**- user can view reviews left about the tutor
-2. Add **View Favorites**- user can view tutors they have favorited
-3. Add **Write Review** - user can write a review about a tutor
-4. Add **Contact Page** - Students can send email to Tutor
+2. Add **Write Review** - user can write a review about a tutor 
+3. Add **View Favorites**- user can view tutors they have favorited
+4. Add **Favorite**- user can favorite a tutor
+5. Add **Contact Tutor** - Students can send email to Tutor
+
 
 EXTERNAL SOURCES:  
 ---
@@ -43,6 +41,7 @@ EXTERNAL SOURCES:
 * Youtube (https://www.youtube.com/)
 * Githubs (https://github.com)
 * Lecture Notes  
+* Bottom Bar View Component (https://github.com/roughike/BottomBar)
 
 
 
