@@ -17,22 +17,24 @@ ACCOMPLISHED LIST & TIME SPENT:
 
 1. [9 days] **View Profile** - user can view another user’s profile
 2. [6 days] **View Tutor’s Location** - user can view the location of a tutor when on their profile
-3. [3 days] **Write Review** - user can write a review about a tutor 
-4. [6 days] **View My Location** - user can view their location on a app
-5. [9 days] **Edit Profile** - user can change profile photo, add a description, add classes they tutor, then save changes
-6. [3 days] **Login** - existing users enter their email and password to login  
-7. [5 days] **Register** - user is prompted to enter their name, email, and a password to create an account
-8. [3 days] **Signout** - user can sign out of application
-9. [7 days] **Search** - user can search a subject and view the people who tutor this subject
-10.[8 days] **Favorite**- user can favorite a tutor
-
-*you may include time spent learing about topics not covered in class and time spent debugging issues*   
-
+3. [6 days] **View My Location** - user can view their location on a app
+4. [9 days] **Edit Profile** - user can change profile photo, add a description, add classes they tutor, then save changes
+5. [3 days] **Login** - existing users enter their email and password to login  
+6. [5 days] **Register** - user is prompted to enter their name, email, and a password to create an account
+7. [3 days] **Signout** - user can sign out of application
+8. [7 days] **Search** - user can search a subject and view the people who tutor this subject
+9. [8 days] **Favorite**- user can favorite a tutor
+```
+**Note to Sign-in:
+  User ID: test@gmail.com     
+  Password: password  
+```
 Future Features TODO:
 ---
 1. Add **View Reviews**- user can view reviews left about the tutor
 2. Add **View Favorites**- user can view tutors they have favorited
-3. Add **Contact Page** - Students can send email to Tutor
+3. Add **Write Review** - user can write a review about a tutor
+4. Add **Contact Page** - Students can send email to Tutor
 
 EXTERNAL SOURCES:  
 ---
