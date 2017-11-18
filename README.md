@@ -25,7 +25,7 @@ ACCOMPLISHED LIST & TIME SPENT:
 8. [7 days] **Search** - user can search a subject and view the people who tutor this subject
 9. [8 days] **Favorite**- user can favorite a tutor
 ```
-**Note to Sign-in:
+**Please Note that when you TEST to login use:
   User ID: test@gmail.com     
   Password: password  
 ```
